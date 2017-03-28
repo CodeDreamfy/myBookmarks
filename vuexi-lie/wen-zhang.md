@@ -1,6 +1,6 @@
 ### Vue
 
-[Awesome Vue](https://github.com/opendigg/awesome-github-vue)
+[Awesome Vue](https://github.com/opendigg/awesome-github-vue)   vue资源集合
 
 ### vue动效
 
