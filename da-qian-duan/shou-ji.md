@@ -1,11 +1,19 @@
 * 15个[有趣的js和css库](https://zhuanlan.zhihu.com/p/26023672)
 * [vscode tips](https://github.com/Microsoft/vscode-tips-and-tricks)
 
-### Vue
+
+
+# 文章
+
+* [Modern JavaScript for Ancient Web Developers](https://trackchanges.postlight.com/modern-javascript-for-ancient-web-developers-58e7cae050f9)
+
+
+
+# Vue
 
 [Awesome Vue](https://github.com/opendigg/awesome-github-vue)   vue资源集合
 
-#### vue动效
+### vue动效
 
 * [适用于 vue.js 和原生 js 的渐进式图片加载](https://github.com/ccforward/cc/issues/64)
 
@@ -31,8 +39,7 @@
 #### 文章
 
 * [webpack - CommonsChunkPlugin\(\)](https://medium.com/webpack/webpack-bits-getting-the-most-out-of-the-commonschunkplugin-ab389e5f318#.23xulhs5m)
-
-
+* [webpack for real tasks: bundling front-end and adding compilation](https://iamakulov.com/notes/all/webpack-for-real-tasks-part-1/)
 
 
 
