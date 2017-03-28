@@ -1,6 +1,6 @@
 ### 个人博客
 
-* [ccforward/cc](#)
+* [ccforward/cc](https://github.com/ccforward/cc/issues)
 
 
 
