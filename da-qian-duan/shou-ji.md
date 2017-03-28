@@ -22,5 +22,17 @@
 
 > 这是一个基于 vue & axios & nodejs\(express\) & mongodb \(mongoose\) 的登录／注册demo，面向 vue 初学者，场景简单，但涵盖非常多的 vue 基本操作，且有较详细的注释，帮助大家快速上手 vue 相关操作。
 
+### Webpack
+
+#### 文档
+
+* [webpack指南](https://webpack.toobug.net/zh-cn/)
+
+#### 文章
+
+* [webpack - CommonsChunkPlugin\(\)](https://medium.com/webpack/webpack-bits-getting-the-most-out-of-the-commonschunkplugin-ab389e5f318#.23xulhs5m)
+
+
+
 
 
