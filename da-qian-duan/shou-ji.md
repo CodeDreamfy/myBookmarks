@@ -1,13 +1,11 @@
 * 15个[有趣的js和css库](https://zhuanlan.zhihu.com/p/26023672)
 * [vscode tips](https://github.com/Microsoft/vscode-tips-and-tricks)
 
-
-
 # 文章
 
 * [Modern JavaScript for Ancient Web Developers](https://trackchanges.postlight.com/modern-javascript-for-ancient-web-developers-58e7cae050f9)
 
-
+---
 
 # Vue
 
@@ -30,16 +28,29 @@
 
 > 这是一个基于 vue & axios & nodejs\(express\) & mongodb \(mongoose\) 的登录／注册demo，面向 vue 初学者，场景简单，但涵盖非常多的 vue 基本操作，且有较详细的注释，帮助大家快速上手 vue 相关操作。
 
+---
+
 ### Webpack
 
 #### 文档
 
+* [webpack Api](https://webpack.js.org/configuration/)
+* [webpack中文Api](https://doc.webpack-china.org/configuration/)
 * [webpack指南](https://webpack.toobug.net/zh-cn/)
+* [css88Webpack中文文档](http://www.css88.com/doc/webpack2/concepts/entry-points/)
 
 #### 文章
 
 * [webpack - CommonsChunkPlugin\(\)](https://medium.com/webpack/webpack-bits-getting-the-most-out-of-the-commonschunkplugin-ab389e5f318#.23xulhs5m)
-* [webpack for real tasks: bundling front-end and adding compilation](https://iamakulov.com/notes/all/webpack-for-real-tasks-part-1/)
+* [webpack for real tasks: bundling front-end and adding compilation](https://iamakulov.com/notes/all/webpack-for-real-tasks-part-1/)
+
+---
+
+### 算法
+
+* [青玉伏案算法与数据结构](http://www.cnblogs.com/ludashi/p/6031379.html)
+* [js排序算法](http://www.jianshu.com/p/1b4068ccd505)
+* [js拍训算法梳理](https://juejin.im/entry/58c9dadb2f301e007e35110c/view?from=timeline&isappinstalled=1)
 
 
 
