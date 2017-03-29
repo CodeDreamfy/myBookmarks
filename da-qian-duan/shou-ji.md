@@ -36,6 +36,7 @@
 
 * [webpack Api](https://webpack.js.org/configuration/)
 * [webpack中文Api](https://doc.webpack-china.org/configuration/)
+* [webpack中午指南](https://zhaoda.gitbooks.io/webpack/content/preface.html)
 * [webpack指南](https://webpack.toobug.net/zh-cn/)
 * [css88Webpack中文文档](http://www.css88.com/doc/webpack2/concepts/entry-points/)
 * [jsSort排序文档](https://sort.hust.cc/)
