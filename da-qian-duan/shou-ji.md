@@ -39,7 +39,6 @@
 * [webpack中文指南](https://zhaoda.gitbooks.io/webpack/content/preface.html)
 * [webpack指南](https://webpack.toobug.net/zh-cn/)
 * [css88Webpack中文文档](http://www.css88.com/doc/webpack2/concepts/entry-points/)
-* [jsSort排序文档](https://sort.hust.cc/)
 
 #### 文章
 
@@ -53,6 +52,7 @@
 * [青玉伏案算法与数据结构](http://www.cnblogs.com/ludashi/p/6031379.html)
 * [js排序算法](http://www.jianshu.com/p/1b4068ccd505)
 * [js拍训算法梳理](https://juejin.im/entry/58c9dadb2f301e007e35110c/view?from=timeline&isappinstalled=1)
+* [jsSort排序文档](#)
 
 
 
