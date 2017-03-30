@@ -7,6 +7,10 @@
 * [Unsplash](https://unsplash.com/)
 * [Pixabay](https://pixabay.com/)
 
+* [Pexels](https://www.pexels.com/)
+
+* [visulahunt](https://visualhunt.com/)
+
 * [最美应用图片集合](http://zuimeia.com/app/5019/?platform=1)
 
 
