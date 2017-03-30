@@ -3,6 +3,7 @@
 * [Introduction](README.md)
 * [工具类](chapter1.md)
   * [vps](chapter1/vps.md)
+  * [ui资源类](chapter1/uizi-yuan-lei.md)
 * [博客](ji-zhu-bo-ke.md)
   * [技术博客](ji-zhu-bo-ke/ji-zhu-bo-ke.md)
 * [前端](da-qian-duan.md)
