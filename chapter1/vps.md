@@ -2,8 +2,14 @@
 
 #### 推荐
 
-* [vultr](https://www.vultr.com/)
+* [vultr](https://www.vultr.com/)   http://www.vultr.com/?ref=7003030
 * [板瓦工](https://bandwagonhost.com/)
+
+#### 工具
+
+* 锐速
+* net-speeder
+* kcp
 
 
 
